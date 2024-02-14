@@ -1,5 +1,4 @@
 package password.strength.checker;
-
 import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -45,7 +44,7 @@ public class PasswordStrengthChecker extends JFrame implements ActionListener{
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
     public static void main(String[] args) {
-        // TODO code application logic here
+        //  application logic here
         PasswordStrengthChecker object = new PasswordStrengthChecker();       
     }
 
